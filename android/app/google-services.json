@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517048624031",
+    "project_id": "chat-app-bad94",
+    "storage_bucket": "chat-app-bad94.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517048624031:android:077d0ded0cce942dc113aa",
+        "android_client_info": {
+          "package_name": "com.chamu.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPRHsKvvMf2v32qqMWOeA39hgObfQQtpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
